@@ -1,5 +1,5 @@
 {
-  "name": "parcel-node-resolver-core-patch",
+  "name": "@parcel/node-resolver-core",
   "version": "2.2.1",
   "license": "MIT",
   "publishConfig": {
